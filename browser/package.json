@@ -35,7 +35,7 @@
     "esformatter": "^0.10.0",
     "esformatter-jsx": "^7.4.1",
     "esformatter-jsx-ignore": "^1.0.6",
-    "html-webpack-plugin": "^2.22.0",
+    "html-webpack-plugin": "^4.0.0",
     "json-loader": "^0.5.4",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.3",
@@ -79,6 +79,6 @@
     "redux-thunk": "^1.0.3",
     "superagent": "^1.8.4",
     "superagent-es6-promise": "^1.0.0",
-    "webpack": "^1.12.11"
+    "webpack": "^3.0.0"
   }
 }
