@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.1167.0":
+  version "1.1167.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1167.0.tgz#825bd97dba6a684f17345e727988a737668e9f73"
+  integrity sha512-KO0bzR1LDz5brLu549I+3FjVAqmR5UXpmjAjImaHm4yfG3cZ6gapxi+1hErHhZcCvzw7pwvpfGEOpiFIg2UYbQ==
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -2893,6 +2898,11 @@ lru-cache@^4.0.1:
 macaddress@^0.2.8:
   version "0.2.8"
   resolved "https://registry.yarnpkg.com/macaddress/-/macaddress-0.2.8.tgz#5904dc537c39ec6dbefeae902327135fa8511f12"
+
+material-design-iconic-font@^2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/material-design-iconic-font/-/material-design-iconic-font-2.2.0.tgz#66c3b1c880ef0cb87c02ca2a0f900ff0fe7f480d"
+  integrity sha512-5GWII2AeN4rucHBRUipHJw6ObxzLZeShjQOIPe9d6n5wW2u38f7wnvHbovIM+dYLt6QXurc9uU+RQMEb+011Cg==
 
 math-expression-evaluator@^1.2.14:
   version "1.2.17"
