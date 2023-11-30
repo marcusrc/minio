@@ -64,7 +64,7 @@
     "mime-db": "^1.25.0",
     "mime-types": "^2.1.13",
     "moment": "^2.15.1",
-    "react": "^0.14.8",
+    "react": "^15.0.0",
     "react-addons-test-utils": "^0.14.8",
     "react-bootstrap": "^0.28.5",
     "react-copy-to-clipboard": "^4.2.3",
