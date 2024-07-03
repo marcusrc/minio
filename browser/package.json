@@ -42,7 +42,7 @@
     "karma-cli": "^0.1.2",
     "karma-firefox-launcher": "^0.1.7",
     "karma-mocha": "^0.2.2",
-    "karma-webpack": "^1.7.0",
+    "karma-webpack": "^4.0.0",
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
     "mocha": "^2.5.3",
@@ -77,8 +77,8 @@
     "react-router": "^2.8.1",
     "redux": "^3.6.0",
     "redux-thunk": "^1.0.3",
-    "superagent": "^1.8.4",
+    "superagent": "^9.0.0",
     "superagent-es6-promise": "^1.0.0",
-    "webpack": "^1.12.11"
+    "webpack": "^4.0.0"
   }
 }
