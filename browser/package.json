@@ -79,6 +79,6 @@
     "redux-thunk": "^1.0.3",
     "superagent": "^1.8.4",
     "superagent-es6-promise": "^1.0.0",
-    "webpack": "^1.12.11"
+    "webpack": "^2.2.0"
   }
 }
